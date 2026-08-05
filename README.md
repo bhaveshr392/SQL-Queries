@@ -14,3 +14,4 @@ SQL-Queries/
 │   └── Aggregate_Functions.sql
 └── Advanced/
     └── Subqueries.sql
+    └── Transactions_case.sql
