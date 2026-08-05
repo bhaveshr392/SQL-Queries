@@ -8,6 +8,7 @@ SQL-Queries/
 ├── Joins/
 │   ├── INNER_JOIN.sql
 │   └── LEFT_JOIN.sql
+    └── RIGHT JOIN.sql
 
 ├── Functions/
 │   └── Aggregate_Functions.sql
